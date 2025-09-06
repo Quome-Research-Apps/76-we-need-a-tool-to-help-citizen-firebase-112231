@@ -1,3 +1,9 @@
+import CivicLogApp from '@/components/civic-log-app';
+
 export default function Home() {
-  return <></>;
+  return (
+    <main>
+      <CivicLogApp />
+    </main>
+  );
 }
