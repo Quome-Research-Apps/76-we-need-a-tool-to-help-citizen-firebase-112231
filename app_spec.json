@@ -1,0 +1,1 @@
+{"name": "76-we-need-a-tool-to-help-citizen-firebase-112231", "spec": {"port": 8000, "containers": [{"image": "", "name": "76-we-need-a-tool-to-help-citizen-firebase-112231", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
